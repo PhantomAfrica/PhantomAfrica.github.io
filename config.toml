@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/twenty-twenty/site/"
+baseURL = "https://phantomafrica.github.io"
 title = "Qiutong"
 theme = "twenty-twenty-hugo"
 languageName = "En"
