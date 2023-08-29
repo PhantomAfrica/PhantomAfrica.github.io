@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Qiutong</title>
+    <link>https://demo.gethugothemes.com/twenty-twenty/site/categories/</link>
+    <description>Recent content in Categories on Qiutong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate><atom:link href="https://demo.gethugothemes.com/twenty-twenty/site/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>lifestyle</title>
+      <link>https://demo.gethugothemes.com/twenty-twenty/site/categories/lifestyle/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/twenty-twenty/site/categories/lifestyle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>operations</title>
+      <link>https://demo.gethugothemes.com/twenty-twenty/site/categories/operations/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/twenty-twenty/site/categories/operations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tour</title>
+      <link>https://demo.gethugothemes.com/twenty-twenty/site/categories/tour/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/twenty-twenty/site/categories/tour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working days</title>
+      <link>https://demo.gethugothemes.com/twenty-twenty/site/categories/working-days/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/twenty-twenty/site/categories/working-days/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
